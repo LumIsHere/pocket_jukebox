@@ -1,0 +1,28 @@
+{
+  "creativeTab.pocket_jukebox": "行動唱片機",
+
+  "item.pocket_jukebox.pocket_jukebox": "行動唱片機",
+  "item.pocket_jukebox.white_pocket_jukebox": "白色行動唱片機",
+  "item.pocket_jukebox.light_gray_pocket_jukebox": "淺灰色行動唱片機",
+  "item.pocket_jukebox.gray_pocket_jukebox": "灰色行動唱片機",
+  "item.pocket_jukebox.black_pocket_jukebox": "黑色行動唱片機",
+  "item.pocket_jukebox.brown_pocket_jukebox": "棕色行動唱片機",
+  "item.pocket_jukebox.red_pocket_jukebox": "紅色行動唱片機",
+  "item.pocket_jukebox.orange_pocket_jukebox": "橙色行動唱片機",
+  "item.pocket_jukebox.yellow_pocket_jukebox": "黃色行動唱片機",
+  "item.pocket_jukebox.lime_pocket_jukebox": "淺綠色行動唱片機",
+  "item.pocket_jukebox.green_pocket_jukebox": "綠色行動唱片機",
+  "item.pocket_jukebox.cyan_pocket_jukebox": "青色行動唱片機",
+  "item.pocket_jukebox.light_blue_pocket_jukebox": "淺藍色行動唱片機",
+  "item.pocket_jukebox.blue_pocket_jukebox": "藍色行動唱片機",
+  "item.pocket_jukebox.purple_pocket_jukebox": "紫色行動唱片機",
+  "item.pocket_jukebox.magenta_pocket_jukebox": "洋紅色行動唱片機",
+  "item.pocket_jukebox.pink_pocket_jukebox": "粉紅色行動唱片機",
+  "item.pocket_jukebox.blank_disc": "空白唱片",
+
+  "item.pocket_jukebox.pocket_jukebox.full": "滿",
+  "item.pocket_jukebox.pocket_jukebox.empty": "空",
+  "item.pocket_jukebox.pocket_jukebox.empty.description": "可容納唱片",
+
+  "message.pocket_jukebox.pocket_jukebox.pause": "音樂已暫停"
+}

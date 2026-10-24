@@ -1,0 +1,28 @@
+{
+    "creativeTab.pocket_jukebox": "Pocket Jukebox",
+
+    "item.pocket_jukebox.pocket_jukebox": "Pocket Jukebox",
+    "item.pocket_jukebox.white_pocket_jukebox": "White Pocket Jukebox",
+    "item.pocket_jukebox.light_gray_pocket_jukebox": "Light Gray Pocket Jukebox",
+    "item.pocket_jukebox.gray_pocket_jukebox": "Gray Pocket Jukebox",
+    "item.pocket_jukebox.black_pocket_jukebox": "Black Pocket Jukebox",
+    "item.pocket_jukebox.brown_pocket_jukebox": "Brown Pocket Jukebox",
+    "item.pocket_jukebox.red_pocket_jukebox": "Red Pocket Jukebox",
+    "item.pocket_jukebox.orange_pocket_jukebox": "Orange Pocket Jukebox",
+    "item.pocket_jukebox.yellow_pocket_jukebox": "Yellow Pocket Jukebox",
+    "item.pocket_jukebox.lime_pocket_jukebox": "Lime Pocket Jukebox",
+    "item.pocket_jukebox.green_pocket_jukebox": "Green Pocket Jukebox",
+    "item.pocket_jukebox.cyan_pocket_jukebox": "Cyan Pocket Jukebox",
+    "item.pocket_jukebox.light_blue_pocket_jukebox": "Light Blue Pocket Jukebox",
+    "item.pocket_jukebox.blue_pocket_jukebox": "Blue Pocket Jukebox",
+    "item.pocket_jukebox.purple_pocket_jukebox": "Purple Pocket Jukebox",
+    "item.pocket_jukebox.magenta_pocket_jukebox": "Magenta Pocket Jukebox",
+    "item.pocket_jukebox.pink_pocket_jukebox": "Pink Pocket Jukebox",
+    "item.pocket_jukebox.blank_disc": "Blank Disc",
+
+    "item.pocket_jukebox.pocket_jukebox.full": "Full",
+    "item.pocket_jukebox.pocket_jukebox.empty": "Empty",
+    "item.pocket_jukebox.pocket_jukebox.empty.description": "Can hold music discs",
+
+    "message.pocket_jukebox.pocket_jukebox.pause": "Music paused"
+}

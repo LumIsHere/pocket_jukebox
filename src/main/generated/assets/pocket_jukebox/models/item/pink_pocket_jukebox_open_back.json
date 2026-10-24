@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_bundle_open_back",
+  "textures": {
+    "layer0": "pocket_jukebox:item/pink_pocket_jukebox_open_back"
+  }
+}

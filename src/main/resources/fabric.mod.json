@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "pocket_jukebox",
+	"version": "${version}",
+	"name": "Pocket Jukebox Mod",
+	"description": "A mod inspired by Minecraft Bedrock's Music Feature Add-on.\nAdds pocket jukeboxes into the game!",
+	"authors": [
+		"Lum Chan"
+	],
+	"contact": {
+		"sources": "https://github.com/LumIsHere/pocket_jukebox"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pocket_jukebox/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.lum.pocket_jukebox.PocketJukebox"
+		],
+        "client": [
+          "com.lum.pocket_jukebox.PocketJukeboxClient"
+        ],
+		"fabric-datagen": [
+			"com.lum.pocket_jukebox.PocketJukeboxDataGenerator"
+		]
+	},
+	"mixins": [
+		"pocket_jukebox.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

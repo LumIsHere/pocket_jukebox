@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "b": {
+      "fabric:type": "fabric:components",
+      "base": "minecraft:brown_bundle",
+      "components": {
+        "minecraft:bundle_contents": []
+      }
+    },
+    "c": "minecraft:copper_nugget",
+    "m": "pocket_jukebox:blank_disc"
+  },
+  "pattern": [
+    "cmc",
+    "cbc",
+    "ccc"
+  ],
+  "result": {
+    "id": "pocket_jukebox:brown_pocket_jukebox"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "values": [
+    "pocket_jukebox:pocket_jukebox",
+    "pocket_jukebox:white_pocket_jukebox",
+    "pocket_jukebox:orange_pocket_jukebox",
+    "pocket_jukebox:magenta_pocket_jukebox",
+    "pocket_jukebox:light_blue_pocket_jukebox",
+    "pocket_jukebox:yellow_pocket_jukebox",
+    "pocket_jukebox:lime_pocket_jukebox",
+    "pocket_jukebox:pink_pocket_jukebox",
+    "pocket_jukebox:gray_pocket_jukebox",
+    "pocket_jukebox:light_gray_pocket_jukebox",
+    "pocket_jukebox:cyan_pocket_jukebox",
+    "pocket_jukebox:purple_pocket_jukebox",
+    "pocket_jukebox:blue_pocket_jukebox",
+    "pocket_jukebox:brown_pocket_jukebox",
+    "pocket_jukebox:green_pocket_jukebox",
+    "pocket_jukebox:red_pocket_jukebox",
+    "pocket_jukebox:black_pocket_jukebox"
+  ]
+}

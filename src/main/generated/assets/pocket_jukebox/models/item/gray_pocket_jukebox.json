@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pocket_jukebox:item/gray_pocket_jukebox"
+  }
+}
