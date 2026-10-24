@@ -32,9 +32,9 @@ public class ClientPocketJukeboxTooltip implements ClientTooltipComponent {
     private static final int SLOT_SIZE = 24;
     private static final int GRID_COLUMNS = 5;
     private static final int GRID_WIDTH = GRID_COLUMNS * SLOT_SIZE;
-    private static final Component POCKET_JUKEBOX_FULL_TEXT = Component.translatable("item.music_features.pocket_jukebox.full");
-    private static final Component POCKET_JUKEBOX_EMPTY_TEXT = Component.translatable("item.music_features.pocket_jukebox.empty");
-    private static final Component POCKET_JUKEBOX_EMPTY_DESCRIPTION = Component.translatable("item.music_features.pocket_jukebox.empty.description");
+    private static final Component POCKET_JUKEBOX_FULL_TEXT = Component.translatable("item.pocket_jukebox.pocket_jukebox.full");
+    private static final Component POCKET_JUKEBOX_EMPTY_TEXT = Component.translatable("item.pocket_jukebox.pocket_jukebox.empty");
+    private static final Component POCKET_JUKEBOX_EMPTY_DESCRIPTION = Component.translatable("item.pocket_jukebox.pocket_jukebox.empty.description");
     private final PocketJukeboxContents contents;
 
     public ClientPocketJukeboxTooltip(final PocketJukeboxContents contents) {

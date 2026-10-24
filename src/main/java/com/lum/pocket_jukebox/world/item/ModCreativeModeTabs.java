@@ -50,7 +50,7 @@ public class ModCreativeModeTabs {
                 MUSIC_FEATURES,
                 FabricCreativeModeTab.builder()
                         .icon(() -> new ItemStack(ModItems.POCKET_JUKEBOX))
-                        .title(Component.translatable("creativeTab.music_features"))
+                        .title(Component.translatable("creativeTab.pocket_jukebox"))
                         .displayItems((params, musicFeatures) -> {
                             musicFeatures.accept(ModItems.POCKET_JUKEBOX);
                             registerColoredItems(musicFeatures, gameplayColorOrder, ModItems.DYED_POCKET_JUKEBOX);

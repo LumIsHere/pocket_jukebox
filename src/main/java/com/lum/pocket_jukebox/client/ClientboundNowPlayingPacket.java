@@ -9,7 +9,7 @@ import net.minecraft.resources.Identifier;
 
 public record ClientboundNowPlayingPacket(Component message) implements CustomPacketPayload {
     public static final Type<ClientboundNowPlayingPacket> TYPE = new Type<>(
-            Identifier.fromNamespaceAndPath("music_features", "now_playing"));
+            Identifier.fromNamespaceAndPath("pocket_jukebox", "now_playing"));
 
     public static final StreamCodec<RegistryFriendlyByteBuf, ClientboundNowPlayingPacket> CODEC =
             StreamCodec.composite(

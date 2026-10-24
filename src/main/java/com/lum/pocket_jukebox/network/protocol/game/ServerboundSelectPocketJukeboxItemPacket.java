@@ -10,7 +10,7 @@ public record ServerboundSelectPocketJukeboxItemPacket(int slotId, int selectedI
         implements CustomPacketPayload {
 
     public static final Type<ServerboundSelectPocketJukeboxItemPacket> TYPE = new Type<>(
-            Identifier.fromNamespaceAndPath("music_features", "select_pocket_jukebox_item"));
+            Identifier.fromNamespaceAndPath("pocket_jukebox", "select_pocket_jukebox_item"));
 
     public static final StreamCodec<RegistryFriendlyByteBuf, ServerboundSelectPocketJukeboxItemPacket> CODEC =
             StreamCodec.composite(

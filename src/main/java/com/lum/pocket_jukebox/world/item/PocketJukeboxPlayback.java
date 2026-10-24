@@ -88,7 +88,7 @@ public final class PocketJukeboxPlayback {
         }
         if (announce) {
             ServerPlayNetworking.send(player, new ClientboundNowPlayingPacket(
-                    Component.translatable("message.music_features.pocket_jukebox.pause")));
+                    Component.translatable("message.pocket_jukebox.pocket_jukebox.pause")));
         }
     }
 

@@ -16,7 +16,7 @@ public abstract class AbstractContainerScreenMixin {
     protected abstract void addItemSlotMouseAction(ItemSlotMouseAction action);
 
     @Inject(method = "init", at = @At("TAIL"))
-    private void music_features$addPocketJukeboxActions(CallbackInfo ci) {
+    private void pocket_jukebox$addPocketJukeboxActions(CallbackInfo ci) {
         this.addItemSlotMouseAction(new PocketJukeboxMouseActions(Minecraft.getInstance()));
     }
 }
