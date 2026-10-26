@@ -1,90 +1,21 @@
-Pocket Jukebox Mod License
-Copyright (c) 2026 LumIsHere. All Rights Reserved except as granted below.
+MIT License
 
-1. DEFINITIONS
+Copyright (c) 2026 LumIsHere
 
-"Mod" means Pocket Jukebox Mod, including its source code, compiled files, and
-documentation, but excluding the Excluded Assets defined below.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-"Code" means the source code and compiled code of the Mod written by
-LumIsHere (the "Author").
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-"Modified Version" means any version of the Mod or the Code that you have
-changed, adapted, forked, or built upon.
-
-"Excluded Assets" means all textures, and any models, sounds, or other
-assets that are bundled with or distributed alongside the Mod, regardless of
-who created them.
-
-2. EXCLUDED ASSETS
-
-The Excluded Assets are NOT covered by this License. This License grants no
-rights to them, and nothing in this License should be read as the Author
-claiming ownership of, or licensing, any Excluded Asset.
-
-Some Excluded Assets are derived from or copied from Minecraft. Those assets
-are the property of Mojang Studios and Microsoft and remain subject to the
-Minecraft End User License Agreement and Minecraft Usage Guidelines.
-
-3. PERMISSIONS
-
-Subject to the conditions in Section 4, you are permitted to:
-
-a) Download, install, and use the Mod for personal or server use.
-
-b) Study, modify, fork, and create Modified Versions of the Code.
-
-c) Redistribute the Mod and Modified Versions free of charge, including in
-   modpacks.
-
-d) Make videos, streams, and screenshots featuring the Mod.
-
-4. CONDITIONS
-
-a) Credit. You must clearly credit the Author as the creator of the original
-   Mod and include a link to the original Mod page. The credit must appear
-   wherever you distribute the Mod or a Modified Version (for example, in the
-   project description and in the README).
-
-b) No false claims. You must not claim, state, or imply that you created the
-   original Mod or the Code. For a Modified Version, you may claim only the
-   changes you made yourself.
-
-c) Mark changes. A Modified Version must state that it has been modified, and
-   must not be presented as the official or original Mod.
-
-d) No selling. You must not sell the Mod or any Modified Version, and you must
-   not place either behind a paywall, ad-wall, link shortener, or donation
-   wall, or otherwise use them to make money. This includes paid access to
-   downloads, paid early access, and paid modpacks where the Mod is part of
-   what is being sold.
-
-e) Keep this License. You must include this License and the copyright notice
-   with every copy of the Code and every Modified Version, and Modified
-   Versions must be distributed under these same terms.
-
-5. OWNERSHIP
-
-The Author retains the copyright in the original Code. You retain the
-copyright in your own changes, but only as a Modified Version distributed
-under the terms of this License. No rights are granted except those expressly
-stated in this License.
-
-6. NO AFFILIATION
-
-This Mod is not an official Minecraft product. It is not approved by or
-associated with Mojang Studios or Microsoft.
-
-7. TERMINATION
-
-This License terminates automatically if you breach any of its terms. On
-termination you must stop using and distributing the Mod and any Modified
-Versions.
-
-8. DISCLAIMER OF WARRANTY
-
-THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR
-BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR
-IN CONNECTION WITH THE MOD OR ITS USE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
