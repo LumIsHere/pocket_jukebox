@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/LumIsHere/pocket_jukebox"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/pocket_jukebox/icon.png",
 	"environment": "*",
 	"entrypoints": {
